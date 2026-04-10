@@ -50,6 +50,14 @@ Final Prediction = LSTM Prediction + XGBoost Residual Correction
 
 ---
 
+## 📦 Dataset
+
+This project uses the Walmart Sales Dataset for multi-store time series forecasting.
+
+🔗 Dataset Link: https://www.kaggle.com/datasets/yasserh/walmart-dataset
+
+> Note: The dataset is not included in this repository due to size constraints. Please download it from the above link and place it inside the `data/` folder before running the code.
+
 ## 📊 Results
 
 ### 📈 Generated Graphs
